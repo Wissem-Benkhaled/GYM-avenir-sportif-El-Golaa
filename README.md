@@ -31,9 +31,7 @@ The site showcases professional trainers, kickboxing products, and club news wit
 
 - <img width="1898" height="906" alt="GYM1" src="https://github.com/user-attachments/assets/37138fb8-c7b9-4aa4-9ffe-c6a8ec3bd4ab" />
 
-🧑‍💻 Author
-
-Wissem Benkhaled
+---
 
 ✨ Future Improvements
 
@@ -42,3 +40,16 @@ Wissem Benkhaled
 🔥 Integrate a CMS for news management
 
 📧 Add contact or booking form
+
+---
+
+## 🧑‍💻 Author
+
+**Wissem Benkhaled**
+
+💌 **Email:** [wissembenkhaled85@gmail.com](mailto:wissembenkhaled85@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/wissem-benkhaled](https://www.linkedin.com/in/wissem-benkhaled/)  
+🐙 **GitHub:** [github.com/Wissem-Benkhaled](https://github.com/Wissem-Benkhaled)  
+🌐 **Portfolio:** [wissembenkhaled.netlify.app](https://wissembenkhaled.netlify.app/)
+
+---
